@@ -54,7 +54,10 @@ ETHERSCAN_API_KEY="********************************"
 ```
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 62f39399d45e955b1646b085ce32ffd310d47f54
 # Sample Hardhat Project
 
 
