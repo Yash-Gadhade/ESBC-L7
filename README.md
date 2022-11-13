@@ -21,6 +21,7 @@ yarn hardhat init
 }
 
 ```
+<<<<<<< HEAD
 hardhat.config.ts file:
 ```
 {
@@ -53,6 +54,8 @@ ETHERSCAN_API_KEY="********************************"
 ```
 
 
+=======
+>>>>>>> a75a8fa176807c853fbcbdb76d43859b9ebbfb4e
 
 
 # Sample Hardhat Project
