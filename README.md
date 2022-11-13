@@ -21,7 +21,7 @@ yarn hardhat init
 }
 
 ```
-<<<<<<< HEAD
+
 hardhat.config.ts file:
 ```
 {
@@ -53,10 +53,6 @@ ALCHEMY_API_KEY="********************************"
 ETHERSCAN_API_KEY="********************************"
 ```
 
-
-<<<<<<< HEAD
-
-=======
 >>>>>>> 62f39399d45e955b1646b085ce32ffd310d47f54
 # Sample Hardhat Project
 
