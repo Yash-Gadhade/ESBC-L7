@@ -52,8 +52,6 @@ INFURA_API_SECRET="********************************"
 ALCHEMY_API_KEY="********************************"
 ETHERSCAN_API_KEY="********************************"
 ```
-
->>>>>>> 62f39399d45e955b1646b085ce32ffd310d47f54
 # Sample Hardhat Project
 
 
