@@ -10,6 +10,18 @@ yarn config set nodeLinker node-modules
 yarn add hardhat --dev
 yarn hardhat init
 
+## Environment setup
+
+.mocharc.json file:
+```
+{
+  "require": "hardhat/register",
+  "timeout": 40000,
+  "_": ["tests/**/*.ts"]
+}
+
+```
+
 
 # Sample Hardhat Project
 
